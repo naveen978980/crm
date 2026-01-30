@@ -1,0 +1,5 @@
+{
+  "allocation_strategy": "round-robin",
+  "max_tasks_per_employee": 5,
+  "auto_allocate": true
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Follow up with client",
+    "description": "Contact ABC Corp regarding proposal",
+    "priority": "high",
+    "status": "pending",
+    "assigned_to": null
+  },
+  {
+    "id": 2,
+    "title": "Review contract",
+    "description": "Review and approve XYZ contract terms",
+    "priority": "medium",
+    "status": "pending",
+    "assigned_to": null
+  }
+]
